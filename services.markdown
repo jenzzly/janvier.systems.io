@@ -3,35 +3,39 @@ title: Services
 date: 2020-06-04 18:15:00 Z
 layout: default
 ---
+<ul>
+  <li> See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.</li>
 
-* See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.
+  <li>
+    <ul> This includes, but is not limited to:
+          <li> Server support </li>
+          <li> Service support </li>
+          <li>  System support </li>
+    </ul>
+  </li>
 
-* **This includes, but is not limited to:**
-  Server support
-  Service support
-  System support
+  <li> Event identification, tracking, control/ resolution and reporting. </li>
 
+  <li> Issue identification, troubleshooting/ resolution and reporting. </li>
 
-* Event identification, tracking, control/ resolution and reporting.
+  <li> Hardware and component testing. </li>
 
-* Issue identification, troubleshooting/ resolution and reporting.
+  <li> Testing of newly implemented/ deployed Servers, services and network environments (lab and production). </li>
 
-* Hardware and component testing.
+  <li> Assist with applying patches to core servers. </li>
 
-* Testing of newly implemented/ deployed Servers, services and network environments (lab and production).
+  <li> Maintain logs on servers. </li>
 
-* Assist with applying patches to core servers.
+  <li> Generate daily, weekly and monthly reports. </li>
 
-* Maintain logs on servers.
+  <li> Installation, configuration and maintenance of software across environments. </li>
 
-* Generate daily, weekly and monthly reports.
+  <li> Assist with software deployment. </li>
 
-* Installation, configuration and maintenance of software across environments.
+  <li> Assist with security updates and upgrades. </li>
 
-* Assist with software deployment.
+  <li> Execute database and server back-ups. </li>
 
-* Assist with security updates and upgrades.
+  <li> Maintain an open line of communication with clients and team members regarding your assigned Requests/ Issues/ Events and Tasks. </li>
 
-* Execute database and server back-ups.
-
-* Maintain an open line of communication with clients and team members regarding your assigned Requests/ Issues/ Events and Tasks.
+</ul>
