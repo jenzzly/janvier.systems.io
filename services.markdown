@@ -6,10 +6,11 @@ layout: default
 
 * See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.
 
-This includes, but is not limited to:
-  o Server support 
-  o Service support 
-  o System support
+* > **This includes, but is not limited to:**
+  >         Server support
+  >         Service support
+  >         System support
+
 
 * Event identification, tracking, control/ resolution and reporting.
 
