@@ -5,8 +5,8 @@ author: Admin
 layout: default
 ---
 
-<p>See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.
-<h3>This includes, but is not limited to:</h3
+See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.
+<h6>This includes, but is not limited to:</h6>
     Server support
     Service support
     System support
@@ -22,4 +22,3 @@ Assist with software deployment.
 Assist with security updates and upgrades.
 Execute database and server back-ups.
 Maintain an open line of communication with clients and team members regarding your assigned Requests/ Issues/ Events and Tasks.
-</p>
