@@ -5,20 +5,69 @@ author: Admin
 layout: default
 ---
 
-See assigned tasks, client requests, event/ issue investigations and report requests through to resolution.
-<h6>This includes, but is not limited to:</h6>
-    Server support
-    Service support
-    System support
-Event identification, tracking, control/ resolution and reporting.
-Issue identification, troubleshooting/ resolution and reporting.
-Hardware and component testing.
-Testing of newly implemented/ deployed Servers, services and network environments (lab and production).
-Assist with applying patches to core servers.
-Maintain logs on servers.
-Generate daily, weekly and monthly reports.
-Installation, configuration and maintenance of software across environments.
-Assist with software deployment.
-Assist with security updates and upgrades.
-Execute database and server back-ups.
-Maintain an open line of communication with clients and team members regarding your assigned Requests/ Issues/ Events and Tasks.
+<div class="completed-cases section-padding3">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/services_hero.jpg" alt="">
+                    <!-- img hover caption -->
+                   <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">IT Helpdesk </a></h4>
+                        <p>we are capable of providing 24/7 services.</p>
+                   </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/two-women-talking-white-holding-laptop-computers-1181561.jpg" alt="">
+                    <!-- img hover caption -->
+                    <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">Quality Engineering</a></h4>
+                        <p>We have the best engineers to plan and design your project </p>
+                   </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/hero2.jpg" alt="">
+                    <!-- img hover caption -->
+                    <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">Cyber Security</a></h4>
+                        <p>Our engineers are expert in protecting your data. </p>
+                   </div>
+                </div>
+            </div>   
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/women-gathered-on-table-near-monitor-1181357.jpg" alt="">
+                    <!-- img hover caption -->
+                    <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">Analytics and insights</a></h4>
+                        <p>Specialized in setup google studio for your team, PowerBI & Grafana. </p>
+                   </div>
+                </div>
+            </div>   
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/man-in-white-shirt-using-macbook-pro-3584086.jpg" alt="">
+                    <!-- img hover caption -->
+                    <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">Cloud Infrastructure </a></h4>
+                        <p>Extensive background in On-Premise and Cloud</p>
+                   </div>
+                </div>
+            </div>   
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="single-cases-img  size mb-30">
+                    <img src="../assets/img/hero/man-holding-macbook-pro-3206168.jpg" alt="">
+                    <!-- img hover caption -->
+                    <div class="single-cases-cap single-cases-cap2">
+                       <h4><a href="#">Enterprise Applications</a></h4>
+                        <p>We have a team of developers if you need a project done.</p>
+                   </div>
+                </div>
+            </div>    
+        </div>
+    </div>
+</div>
