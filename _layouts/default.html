@@ -136,7 +136,7 @@
                             <form action="https://formspree.io/xbjzdkqa" method="post" target="_blank">
                                 <div class="form-group">
                                     <div class="input-group mb-3">
-                                        <input type="text" class="form-control" placeholder='Search Keyword'
+                                        <input type="text" name="search" id="search" class="form-control" placeholder='Search Keyword'
                                             onfocus="this.placeholder = ''"
                                             onblur="this.placeholder = 'Search Keyword'">
                                         <div class="input-group-append">
@@ -173,21 +173,21 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-box  mb-30">
-                                        <input type="text" name="name" placeholder="Name">
+                                        <input type="text" id="name" name="name" placeholder="Name">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-box mb-30">
-                                        <input type="text" name="email" placeholder="Phone">
+                                        <input type="text" id="email" name="email" placeholder="Phone">
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-md-8 mb-30">
                                     <div class="select-itms">
                                         <select name="select" id="select1">
-                                            <option value="">Services</option>
-                                            <option value="">Helpdesk</option>
-                                            <option value="">Cloud Infrastructure</option>
-                                            <option value="">Development</option>
+                                            <option value="No choice">Services</option>
+                                            <option value="Helpdesk">Helpdesk</option>
+                                            <option value="Cloud Infrastructure">Cloud Infrastructure</option>
+                                            <option value="Dev">Development</option>
                                         </select>
                                     </div>
                                 </div>
